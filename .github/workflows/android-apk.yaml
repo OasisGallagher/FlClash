@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/android-apk.yaml'
+      - 'lib/manager/tile_manager.dart'
 
 jobs:
   build:
